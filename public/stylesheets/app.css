@@ -8,7 +8,7 @@ body{
     
     color: white;
 }
-p,span,li{
+p,span,li,.labels{
     color: black;
 }
 #map {
